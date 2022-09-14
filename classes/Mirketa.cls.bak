@@ -1,6 +1,6 @@
 public class Mirketa {
     public void method(){
-        system.debug('Hello sssssssssssssssssssssssssss');
+        system.debug('Hello Mirketa');
     }
    
     }
